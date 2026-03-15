@@ -9,5 +9,5 @@ Hey, I'm a student focusing on **Cybersecurity** with a goal of becoming a **SOC
 * 
 ### 📈 Skills I'm Developing
 * **Defensive:** SIEM (Wazuh), Log Analysis, Endpoint Monitoring.
-* **Analysis:** Network Traffic Analysis (Wireshark), Command Line (Linux/Windows).
+* **Analysis:** Network Traffic Analysis (Wireshark)
 * **CTF:** Problem Solving, Enumeration, Pattern Recognition, CTF Methodology.
