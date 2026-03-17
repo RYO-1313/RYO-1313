@@ -1,13 +1,51 @@
-## Hi there 👋
-### 🛡️ About Me ###
-Hey, I'm a student focusing on **Cybersecurity** with a goal of becoming a **SOC Analyst**. I'm currently focused on building my practical skills through hands-on labs and simulations.
+## 🛡️ Cybersecurity Student — Aspiring SOC Analyst
 
-### 🛠️ Current Labs & Projects ###
-* **TryHackMe:** Currently working through Blue Team pathways to understand attack vectors and defense techniques.
-* **Home Lab (Wazuh):** Running a local Wazuh instance to monitor logs, analyze traffic, and practice alert handling.
-* **Root-Me:** Practicing networking CTF challenges to strengthen my understanding of network protocols and packet analysis.
-* 
-### 📈 Skills I'm Developing
-* **Defensive:** SIEM (Wazuh), Log Analysis, Endpoint Monitoring.
-* **Analysis:** Network Traffic Analysis (Wireshark)
-* **CTF:** Problem Solving, Enumeration, Pattern Recognition, CTF Methodology.
+Self-taught, no formal degree. Building real skills through real work.
+
+---
+
+## 👤 About Me
+
+I am a self-taught cybersecurity student working toward a career as a SOC Analyst.
+My approach is hands-on first — I learn by doing, document everything, and focus
+on building the analytical thinking that SOC work actually requires.
+
+I use Linux as my daily operating system (CachyOS), maintain a Kali Linux VM for
+CTF work, and document my progress publicly so my learning is visible and verifiable.
+
+---
+
+## 🔬 Current Projects
+
+**CTF Networking Writeups — Root-Me**
+Working through networking challenges focused on protocol analysis, packet inspection,
+and credential identification. Every challenge is documented with methodology, concepts
+learned, and SOC-relevant takeaways. No flags, no shortcuts — just analysis.
+→ ctf-networking-journey repo
+
+**TryHackMe — Blue Team Pathways**
+Structured learning across SOC fundamentals, log analysis, and defensive techniques.
+
+**Home Lab — Wazuh SIEM**
+Self-hosted Wazuh instance. Currently in early exploration — setting up monitoring
+and building familiarity with alert handling and log ingestion.
+
+---
+
+## 🧰 Tools & Skills
+
+| Area | Tools / Skills |
+|------|---------------|
+| Packet Analysis | Wireshark, Follow TCP Stream, protocol filtering |
+| DNS & Network | dig, Nmap, Linux terminal |
+| Hash Cracking | hashcat, John the Ripper, hashes.com |
+| SIEM | Wazuh (home lab) |
+| OS | CachyOS (daily), Kali Linux (CTF) |
+
+---
+
+## 📈 Current Focus
+
+Building the core skills a SOC Analyst needs before day one:
+network protocol knowledge, packet-level analysis, log familiarity,
+and the habit of documenting everything clearly.
