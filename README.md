@@ -21,7 +21,7 @@ CTF work, and document my progress publicly so my learning is visible and verifi
 Working through networking challenges focused on protocol analysis, packet inspection,
 and credential identification. Every challenge is documented with methodology, concepts
 learned, and SOC-relevant takeaways. No flags, no shortcuts — just analysis.
-→ ctf-networking-journey repo
+→ → [ctf-networking-journey](https://github.com/RYO-1313/CTF-Networking-Root-Me)
 
 **TryHackMe — Blue Team Pathways**
 Structured learning across SOC fundamentals, log analysis, and defensive techniques.
