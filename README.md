@@ -1,51 +1,32 @@
-## 🛡️ Cybersecurity Student — Aspiring SOC Analyst
+# hey, I'm RYO
 
-Self-taught, no formal degree. Building real skills through real work.
-
----
-
-## 👤 About Me
-
-I am a self-taught cybersecurity student working toward a career as a SOC Analyst.
-My approach is hands-on first — I learn by doing, document everything, and focus
-on building the analytical thinking that SOC work actually requires.
-
-I use Linux as my daily operating system (CachyOS), maintain a Kali Linux VM for
-CTF work, and document my progress publicly so my learning is visible and verifiable.
+self-taught. building toward a SOC Analyst role. long-term goal: Red Team.
 
 ---
 
-## 🔬 Current Projects
+## what I'm working on
 
-**CTF Networking Writeups — Root-Me**
-Working through networking challenges focused on protocol analysis, packet inspection,
-and credential identification. Every challenge is documented with methodology, concepts
-learned, and SOC-relevant takeaways. No flags, no shortcuts — just analysis.
-→ → [ctf-networking-journey](https://github.com/RYO-1313/CTF-Networking-Root-Me)
+I'm documenting my path into cybersecurity through real projects — not certificates, not courses alone, but actual hands-on builds and writeups.
 
-**TryHackMe — Blue Team Pathways**
-Structured learning across SOC fundamentals, log analysis, and defensive techniques.
-
-**Home Lab — Wazuh SIEM**
-Self-hosted Wazuh instance. Currently in early exploration — setting up monitoring
-and building familiarity with alert handling and log ingestion.
+Currently training on **TryHackMe** (SOC Level 1 path) and sharpening practical skills on **Root Me**.
 
 ---
 
-## 🧰 Tools & Skills
+## repos
 
-| Area | Tools / Skills |
-|------|---------------|
-| Packet Analysis | Wireshark, Follow TCP Stream, protocol filtering |
-| DNS & Network | dig, Nmap, Linux terminal |
-| Hash Cracking | hashcat, John the Ripper, hashes.com |
-| SIEM | Wazuh (home lab) |
-| OS | CachyOS (daily), Kali Linux (CTF) |
+### 🔬 [home-soc-lab](https://github.com/RYO-1313/home-soc-lab)
+A step-by-step guide to building a personal security lab on a single Debian 13 machine.
+Stack: **Splunk** (SIEM) + **Wazuh** (EDR). Written to be accessible whether you're new to Linux or already comfortable in the terminal.
+
+Next up: a CTF writeups repo and a SOC attack simulations repo — both in progress as the path continues.
 
 ---
 
-## 📈 Current Focus
+## training
 
-Building the core skills a SOC Analyst needs before day one:
-network protocol knowledge, packet-level analysis, log familiarity,
-and the habit of documenting everything clearly.
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-RYO1313-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RYO1313)
+[![Root Me](https://img.shields.io/badge/Root%20Me-RYO-1A1A2E?style=flat-square)](https://www.root-me.org/RYO-1085006?lang=en)
+
+---
+
+*the work is public. the path is ongoing.*
