@@ -1,32 +1,51 @@
-# hey, I'm RYO
+# Hey, I'm Ryo 👋
 
-self-taught. building toward a SOC Analyst role. long-term goal: Red Team.
-
----
-
-## what I'm working on
-
-I'm documenting my path into cybersecurity through real projects — not certificates, not courses alone, but actual hands-on builds and writeups.
-
-Currently training on **TryHackMe** (SOC Level 1 path) and sharpening practical skills on **Root Me**.
+> Blue team practitioner  · Building a production-grade SOC home lab · Targeting remote L1 SOC and Cybersecurity Operations Analyst roles
 
 ---
 
-## repos
+## What I'm building
 
-### 🔬 [home-soc-lab](https://github.com/RYO-1313/home-soc-lab)
-A step-by-step guide to building a personal security lab on a single Debian 13 machine.
-Stack: **Splunk** (SIEM) + **Wazuh** (EDR). Written to be accessible whether you're new to Linux or already comfortable in the terminal.
+A serious entry-level blue team portfolio — no fluff, no tutorial rewrites. Every project runs in a live home lab, documents a real detection scenario, and maps to MITRE ATT&CK and NIST SP 800-61.
 
-Next up: a CTF writeups repo and a SOC attack simulations repo — both in progress as the path continues.
+Current focus: a complete attacker kill chain simulation (port scan through log clearing) with detection rules and incident reports at each stage, alongside a phishing investigation lab built on real honeypot samples.
 
 ---
 
-## training
+## 🛠 Home Lab Stack
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-RYO1313-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RYO1313)
-[![Root Me](https://img.shields.io/badge/Root%20Me-RYO-1A1A2E?style=flat-square)](https://www.root-me.org/RYO-1085006?lang=en)
+| Tool | Role |
+|------|------|
+| Splunk | SIEM — log ingestion, correlation, and alerting |
+| Wazuh | EDR — endpoint detection and rule-based response |
+| TheHive | Case management and incident tracking |
+| Kali Linux | Attacker simulation |
+| Debian + Windows | Target endpoints |
 
 ---
 
-*the work is public. the path is ongoing.*
+## 📁 Portfolio Projects
+
+| Project | Description |
+|---------|-------------|
+| [Kill Chain Lab — MITRE ATT&CK Simulation](#) | Full attacker simulation: port scanning → SSH brute force → privilege escalation → persistence → log clearing. Detection rules and NIST 800-61 incident reports at each stage. |
+| [Phishing Investigation Lab](#) | SOC triage on real samples from Phishing Pot. Header analysis, sender IP reputation, URL detonation, escalation verdicts. |
+
+**In progress:**
+- Lateral movement expansion: Pass-the-Hash + remote service execution
+- 3 new phishing cases: credential harvesting / malware delivery / quishing
+
+---
+
+## 📚 Currently learning
+
+- TryHackMe — SOC Level 1 path
+- Root Me — challenge-based practice
+
+---
+
+## 📬 Find me
+
+[![LinkedIn](www.linkedin.com/in/youssf-touhami-926079416)](https://linkedin.com/in/[TODO: add-handle])
+[![TryHackMe](https://tryhackme.com/p/RYO1313))](https://tryhackme.com/p/[TODO: add-handle])
+[![Root Me]([https://www.root-me.org/RYO-1085006?lang=en)](https://www.root-me.org/[TODO: add-handle])
