@@ -28,8 +28,8 @@ Current focus: a complete attacker kill chain simulation (port scan through log 
 
 | Project | Description |
 |---------|-------------|
-| [Kill Chain Lab — MITRE ATT&CK Simulation]([#](https://github.com/RYO-1313/Home-Lab-Simulations)) | Full attacker simulation: port scanning → SSH brute force → privilege escalation → persistence → log clearing. Detection rules and NIST 800-61 incident reports at each stage. |
-| [Phishing Investigation Lab]([#](https://github.com/RYO-1313/Phishing-Investigation)) | SOC triage on real samples from Phishing Pot. Header analysis, sender IP reputation, URL detonation, escalation verdicts. |
+| [Kill Chain Lab — MITRE ATT&CK Simulation](https://github.com/RYO-1313/Home-Lab-Simulations) | Full attacker simulation: port scanning → SSH brute force → privilege escalation → persistence → log clearing. Detection rules and NIST 800-61 incident reports at each stage. |
+| [Phishing Investigation Lab](https://github.com/RYO-1313/Phishing-Investigation) | SOC triage on real samples from Phishing Pot. Header analysis, sender IP reputation, URL detonation, escalation verdicts. |
 
 **In progress:**
 - Lateral movement expansion: Pass-the-Hash + remote service execution
