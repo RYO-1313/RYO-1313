@@ -1,6 +1,6 @@
 # Hey, I'm Ryo 👋
 
-> Blue team practitioner  · Building a production-grade SOC home lab · Targeting remote L1 SOC and Cybersecurity Operations Analyst roles
+> Blue team practitioner · Building a production-grade SOC home lab · Targeting remote L1 SOC and Cybersecurity Operations Analyst roles
 
 ---
 
@@ -46,6 +46,6 @@ Current focus: a complete attacker kill chain simulation (port scan through log 
 
 ## 📬 Find me
 
-[![LinkedIn](www.linkedin.com/in/youssf-touhami-926079416)](https://linkedin.com/in/[TODO: add-handle])
-[![TryHackMe](https://tryhackme.com/p/RYO1313))](https://tryhackme.com/p/[TODO: add-handle])
-[![Root Me]([https://www.root-me.org/RYO-1085006?lang=en)](https://www.root-me.org/[TODO: add-handle])
+- [LinkedIn](https://www.linkedin.com/in/youssf-touhami-926079416)
+- [TryHackMe](https://tryhackme.com/p/RYO1313)
+- [Root Me](https://www.root-me.org/RYO-1085006?lang=en)
