@@ -1,17 +1,15 @@
-# Hey, I'm Youssf 👋
+# Hey, I'm Youssef 👋
 
-> Currently Im working in building investigation mindset with labs and sampels online , targetintg SOC analyst Skillset 
+> 🔍 Building an investigation mindset through labs and real samples · 🎯 Targeting L1 SOC Analyst roles
 
-Im Youssef , a student in IT and management while also self teaching cybersecurity realying on online labs and learning reasaurce . 
-I use various methods and sites to learn diffrent skills , like TryHackMe for more structual leaning and My soc lab For more Free explore .
-While from times to times i like to solve some CTFs as part of learning 
+I'm Youssef, a student in IT and management who is also teaching myself cybersecurity through online labs and learning resources. I use TryHackMe for structured learning and my own SOC lab for freer exploration. From time to time I also solve CTFs as part of my learning.
+
 ---
 
 ## 🎯 Focus
 
-- [Area 1, Threat Detection]
-- [Area 2, Email investigation]
-- [Area 3, Alerts Tunning]
+- 🛡️ Threat detection
+- 📧 Email investigation
 
 ---
 
@@ -19,37 +17,31 @@ While from times to times i like to solve some CTFs as part of learning
 
 | Project | What it shows | Tools | Status |
 |---------|---------------|-------|--------|
-| [Email Investigation]([link](https://github.com/RYO-1313/Phishing-Investigation)) | [My skills and devolopment while investigating fishing samples] | [mxtoolbox-VirusTotal-AbuseDB-Whois] | In progress |
-| [Home-Lab-Simulations](https://github.com/RYO-1313/Home-Lab-Simulations) | [A lab where i generate alerts and Investigate them with my cahin of proccess and reports] | [Wazuh-Splunk-TheHive] |  In progress |
-
+| [📧 Email Investigation](https://github.com/RYO-1313/Phishing-Investigation) | My skills and development while investigating phishing samples. 4 samples so far, none with credential harvesting or malware attachments yet | MXToolbox, VirusTotal, AbuseIPDB, Whois | 🔨 In progress |
+| [🧪 Home-Lab-Simulations](https://github.com/RYO-1313/Home-Lab-Simulations) | A Docker-based lab where I generate alerts and investigate them, with my process and reports. I'm also practicing rule tuning here | Wazuh, Splunk, TheHive, Docker | 🔨 In progress |
 
 ---
 
 ## 🛠 Skills & Tools
 
-**SIEM / EDR:** [Splunk, Wazuh]
-**Case management:** [TheHive]
-**Offensive / simulation:** [Kali Linux]
-**Frameworks:** [MITRE ATT&CK, NIST SP 800-61]
-**Other:** [Linux, Windows, networking, Python ,Docker]
+- 🔎 **SIEM / EDR:** Splunk, Wazuh
+- 📋 **Case management:** TheHive
+- ⚔️ **Offensive / simulation:** Kali Linux
+- 💻 **Other:** Linux, Windows, networking, Python, Docker
 
 ---
 
 ## 📚 Learning
 
-- [TryHackMe SOC Level 2 Path] — [in progress ]
-- [education.splunk/SOC Analyst] — [in progress]
-
----
-
-## 🗓 Updates
-
+- 🎓 TryHackMe SOC Level 2 path — in progress
+- 🎓 Splunk Education SOC Analyst course — in progress
+- 🗺️ MITRE ATT&CK and NIST SP 800-61 — learning the basics
+- 🎚️ Detection rule tuning — practicing in my lab
 
 ---
 
 ## 📬 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/youssf-touhami/)
-- [TryHackMe](https://tryhackme.com/p/RYO1313)
-- [Root Me](https://www.root-me.org/RYO-1085006?lang=en#c2ff9d26fc322e85c1aa5946e9698276)
-- [Email, benishin2000@gmail.com]
+- 💼 [LinkedIn](https://www.linkedin.com/in/youssf-touhami/)
+- 🎯 [TryHackMe](https://tryhackme.com/p/RYO1313)
+- 🔐 [Root Me](https://www.root-me.org/RYO-1085006?lang=en)
