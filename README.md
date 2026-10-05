@@ -1,51 +1,55 @@
-# Hey, I'm Ryo 👋
+# Hey, I'm Youssf 👋
 
-> Blue team practitioner · Building a production-grade SOC home lab · Targeting remote L1 SOC and Cybersecurity Operations Analyst roles
+> Currently Im working in building investigation mindset with labs and sampels online , targetintg SOC analyst Skillset 
+
+Im Youssef , a student in IT and management while also self teaching cybersecurity realying on online labs and learning reasaurce . 
+I use various methods and sites to learn diffrent skills , like TryHackMe for more structual leaning and My soc lab For more Free explore .
+While from times to times i like to solve some CTFs as part of learning 
+---
+
+## 🎯 Focus
+
+- [Area 1, Threat Detection]
+- [Area 2, Email investigation]
+- [Area 3, Alerts Tunning]
 
 ---
 
-## What I'm building
+## 📁 Projects
 
-A serious entry-level blue team portfolio — no fluff, no tutorial rewrites. Every project runs in a live home lab, documents a real detection scenario, and maps to MITRE ATT&CK and NIST SP 800-61.
+| Project | What it shows | Tools | Status |
+|---------|---------------|-------|--------|
+| [Email Investigation]([link](https://github.com/RYO-1313/Phishing-Investigation)) | [My skills and devolopment while investigating fishing samples] | [mxtoolbox-VirusTotal-AbuseDB-Whois] | In progress |
+| [Home-Lab-Simulations](https://github.com/RYO-1313/Home-Lab-Simulations) | [A lab where i generate alerts and Investigate them with my cahin of proccess and reports] | [Wazuh-Splunk-TheHive] |  In progress |
 
-Current focus: a complete attacker kill chain simulation (port scan through log clearing) with detection rules and incident reports at each stage, alongside a phishing investigation lab built on real honeypot samples.
-
----
-
-## 🛠 Home Lab Stack
-
-| Tool | Role |
-|------|------|
-| Splunk | SIEM — log ingestion, correlation, and alerting |
-| Wazuh | EDR — endpoint detection and rule-based response |
-| TheHive | Case management and incident tracking |
-| Kali Linux | Attacker simulation |
-| Debian + Windows | Target endpoints |
 
 ---
 
-## 📁 Portfolio Projects
+## 🛠 Skills & Tools
 
-| Project | Description |
-|---------|-------------|
-| [Kill Chain Lab — MITRE ATT&CK Simulation](https://github.com/RYO-1313/Home-Lab-Simulations) | Full attacker simulation: port scanning → SSH brute force → privilege escalation → persistence → log clearing. Detection rules and NIST 800-61 incident reports at each stage. |
-| [Phishing Investigation Lab](https://github.com/RYO-1313/Phishing-Investigation) | SOC triage on real samples from Phishing Pot. Header analysis, sender IP reputation, URL detonation, escalation verdicts. |
-
-**In progress:**
-- Lateral movement expansion: Pass-the-Hash + remote service execution
-- 3 new phishing cases: credential harvesting / malware delivery / quishing
+**SIEM / EDR:** [Splunk, Wazuh]
+**Case management:** [TheHive]
+**Offensive / simulation:** [Kali Linux]
+**Frameworks:** [MITRE ATT&CK, NIST SP 800-61]
+**Other:** [Linux, Windows, networking, Python ,Docker]
 
 ---
 
-## 📚 Currently learning
+## 📚 Learning
 
-- TryHackMe — SOC Level 1 path
-- Root Me — challenge-based practice
+- [TryHackMe SOC Level 2 Path] — [in progress ]
+- [education.splunk/SOC Analyst] — [in progress]
 
 ---
 
-## 📬 Find me
+## 🗓 Updates
 
-- [LinkedIn](https://www.linkedin.com/in/youssf-touhami-926079416)
+
+---
+
+## 📬 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/youssf-touhami/)
 - [TryHackMe](https://tryhackme.com/p/RYO1313)
-- [Root Me](https://www.root-me.org/RYO-1085006?lang=en)
+- [Root Me](https://www.root-me.org/RYO-1085006?lang=en#c2ff9d26fc322e85c1aa5946e9698276)
+- [Email, benishin2000@gmail.com]
