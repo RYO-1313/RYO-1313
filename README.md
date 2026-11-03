@@ -8,8 +8,8 @@ I'm Youssef, a student in IT and management who is also teaching myself cybersec
 
 ## 🎯 Focus
 
-- 🛡️ Threat detection
-- 📧 Email investigation
+- 🐞 Malware analysis
+- 📋 Yara Rules 
 
 ---
 
