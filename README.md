@@ -28,6 +28,7 @@ I'm Youssef, a student in IT and management who is also teaching myself cybersec
 - 📋 **Case management:** TheHive
 - ⚔️ **Offensive / simulation:** Kali Linux
 - 💻 **Other:** Linux, Windows, networking, Python, Docker
+- 🔬 **Malware analysis:**  FlareVM
 
 ---
 
@@ -37,6 +38,7 @@ I'm Youssef, a student in IT and management who is also teaching myself cybersec
 - 🎓 Splunk Education SOC Analyst course — in progress
 - 🗺️ MITRE ATT&CK and NIST SP 800-61 — learning the basics
 - 🎚️ Detection rule tuning — practicing in my lab
+- 📜 Yara rules - learning fundamental 
 
 ---
 
