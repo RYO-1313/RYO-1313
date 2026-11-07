@@ -19,6 +19,7 @@ I'm Youssef, a student in IT and management who is also teaching myself cybersec
 |---------|---------------|-------|--------|
 | [📧 Email Investigation](https://github.com/RYO-1313/Phishing-Investigation) | My skills and development while investigating phishing samples. 4 samples so far, none with credential harvesting or malware attachments yet | MXToolbox, VirusTotal, AbuseIPDB, Whois | 🔨 In progress |
 | [🧪 Home-Lab-Simulations](https://github.com/RYO-1313/Home-Lab-Simulations) | A Docker-based lab where I generate alerts and investigate them, with my process and reports. I'm also practicing rule tuning here | Wazuh, Splunk, TheHive, Docker | 🔨 In progress |
+| [📋 Yara rules](https://github.com/RYO-1313/Yara_rules) | YARA rules I write while learning malware detection, with notes and MITRE ATT&CK mapping for each one. | FlareVM-bazaar.abuse | 🔨 In progress |
 
 ---
 
